@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/mGlVR6qmh2jKDr7zZ4Dna9nKFr6y4PTzQ41bz2cc0Y4WdTOzuun/sKQhztp6R1Av8OD5+7UPCTf8cd6AAsOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utku\\Desktop\\project\\arch\\solution2\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utku\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\mimekit\\3.1.1\\mimekit.3.1.1.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Utku\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
