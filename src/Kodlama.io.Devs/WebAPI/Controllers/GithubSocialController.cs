@@ -1,6 +1,6 @@
-﻿using Application.Features.GithubProfiles.Commands.CreateGithubSocial;
-using Application.Features.GithubProfiles.Commands.DeleteGithubSocial;
-using Application.Features.GithubProfiles.Dto;
+﻿using Application.Features.GithubSocials.Commands.CreateGithubSocial;
+using Application.Features.GithubSocials.Commands.DeleteGithubSocial;
+using Application.Features.GithubSocials.Dto;
 using Application.Features.Languages.Commands.CreateProgrammingLanguage;
 using Application.Features.Languages.Commands.DeleteProgrammingLanguage;
 using Application.Features.Languages.Commands.UpdateProgrammingLanguage;

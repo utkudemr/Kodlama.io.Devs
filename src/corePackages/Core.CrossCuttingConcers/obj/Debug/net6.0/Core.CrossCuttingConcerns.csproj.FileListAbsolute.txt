@@ -14,6 +14,7 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Co
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
@@ -21,4 +22,3 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Co
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache

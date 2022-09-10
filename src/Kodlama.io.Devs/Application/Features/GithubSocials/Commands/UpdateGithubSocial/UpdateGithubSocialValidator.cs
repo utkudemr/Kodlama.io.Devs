@@ -1,11 +1,7 @@
-﻿using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Application.Features.GithubSocials.Commands.CreateGithubSocial;
+using FluentValidation;
 
-namespace Application.Features.GithubProfiles.Commands.CreateGithubSocial
+namespace Application.Features.GithubSocials.Commands.UpdateGithubSocial
 {
     public class UpdateGithubSocialValidator : AbstractValidator<UpdateGithubSocialCommand>
     {

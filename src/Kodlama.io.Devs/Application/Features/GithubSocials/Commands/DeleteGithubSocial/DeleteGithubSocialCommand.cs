@@ -1,5 +1,5 @@
-﻿using Application.Features.GithubProfiles.Dto;
-using Application.Features.GithubProfiles.Rules;
+﻿using Application.Features.GithubSocials.Dto;
+using Application.Features.GithubSocials.Rules;
 using Application.Features.Languages.Dtos;
 using Application.Features.Technologies.Dtos;
 using Application.Features.Technologies.Rules;
@@ -7,7 +7,7 @@ using Application.Services.Repositories;
 using AutoMapper;
 using Domain.Entities;
 using MediatR;
-namespace Application.Features.GithubProfiles.Commands.DeleteGithubSocial
+namespace Application.Features.GithubSocials.Commands.DeleteGithubSocial
 {
     public class DeleteGithubSocialCommand : IRequest<DeleteGithubSocialDto>
     {

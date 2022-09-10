@@ -14,6 +14,7 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Co
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\ref\Core.ElasticSearch.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs

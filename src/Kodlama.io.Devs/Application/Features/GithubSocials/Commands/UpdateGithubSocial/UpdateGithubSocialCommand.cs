@@ -1,5 +1,5 @@
-﻿using Application.Features.GithubProfiles.Dto;
-using Application.Features.GithubProfiles.Rules;
+﻿using Application.Features.GithubSocials.Dto;
+using Application.Features.GithubSocials.Rules;
 using Application.Features.Users.Rules;
 using Application.Services.Repositories;
 using AutoMapper;
@@ -11,7 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Features.GithubProfiles.Commands.CreateGithubSocial
+namespace Application.Features.GithubSocials.Commands.CreateGithubSocial
 {
     public class UpdateGithubSocialCommand : IRequest<UpdatedGithubSocialDto>
     {

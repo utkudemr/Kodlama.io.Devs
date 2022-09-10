@@ -1,3 +1,8 @@
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\Persistance.deps.json
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\Persistance.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\ref\Persistance.dll
@@ -14,11 +19,6 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\Core.Persistence.pdb
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\bin\Debug\net6.0\Core.Security.pdb
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
-C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.csproj.CopyComplete
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\Persistance.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Persistance\obj\Debug\net6.0\ref\Persistance.dll

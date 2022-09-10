@@ -1,4 +1,4 @@
-﻿using Application.Features.GithubProfiles.Rules;
+﻿using Application.Features.GithubSocials.Rules;
 using Application.Features.Languages.Rules;
 using Application.Features.Technologies.Rules;
 using Application.Features.Users.Rules;
