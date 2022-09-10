@@ -20,7 +20,42 @@
       "ProjectGuid": "4944696f-91ef-4cfb-86f0-ca704fae3b04",
       "DisplayName": "Core.Persistence",
       "ColorIndex": 3
+    },
+    "202ff4f9-64ea-4bbc-9c2b-601fb38f9ef3": {
+      "ProjectGuid": "202ff4f9-64ea-4bbc-9c2b-601fb38f9ef3",
+      "DisplayName": "Persistance",
+      "ColorIndex": 4
+    },
+    "bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7": {
+      "ProjectGuid": "bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 5
+    },
+    "c68b6e45-7e48-4338-ad5b-961c19c733aa": {
+      "ProjectGuid": "c68b6e45-7e48-4338-ad5b-961c19c733aa",
+      "DisplayName": "Persistance",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "86b1b895-5409-4f67-8adc-905656aaeb4f": {
+      "ProjectGuid": "86b1b895-5409-4f67-8adc-905656aaeb4f",
+      "DisplayName": "Core.Security",
+      "ColorIndex": 7
+    },
+    "ee526662-ff97-4b34-b94c-0b3d791516a2": {
+      "ProjectGuid": "ee526662-ff97-4b34-b94c-0b3d791516a2",
+      "DisplayName": "Core.Mailing",
+      "ColorIndex": 8
+    },
+    "94e2395e-c9d8-44b0-b5d5-b23183ceb950": {
+      "ProjectGuid": "94e2395e-c9d8-44b0-b5d5-b23183ceb950",
+      "DisplayName": "Core.Application",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 10
 }

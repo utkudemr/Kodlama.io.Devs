@@ -414,6 +414,9 @@
             "projectReferences": {
               "C:\\Users\\Utku\\Desktop\\project\\arch\\solution2\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
                 "projectPath": "C:\\Users\\Utku\\Desktop\\project\\arch\\solution2\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              },
+              "C:\\Users\\Utku\\Desktop\\project\\arch\\solution2\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\Utku\\Desktop\\project\\arch\\solution2\\Kodlama.io.Devs\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }

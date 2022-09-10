@@ -11,9 +11,11 @@ namespace Domain.Entities
     {
         public string Name { get; set; }
         public bool IsActive { get; set; }
+
+        public virtual ICollection<Technology> Technologies { get; set; }
         public ProgrammingLanguage()
         {
-
+            Technologies = new List<Technology>();
         }
 
         public ProgrammingLanguage(int id, string name,bool isActive) : this()
@@ -21,6 +23,7 @@ namespace Domain.Entities
             Id = id;
             Name = name;
             IsActive = isActive;
+            Technologies = new List<Technology>();
         }
     }
 }

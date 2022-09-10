@@ -13,3 +13,5 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\ref\Domain.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Security.pdb

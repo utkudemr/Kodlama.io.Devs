@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Core.Security.Entities;
+using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System;
@@ -13,6 +14,9 @@ namespace Persistance.Contexts
     {
         protected IConfiguration Configuration { get; set; }
         public DbSet<ProgrammingLanguage> Brands { get; set; }
+        public DbSet<Technology> Technologies { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<GithubSocial> GithubSocials { get; set; }
 
 
         public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
@@ -29,18 +33,38 @@ namespace Persistance.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            //databasei sil önce
             modelBuilder.Entity<ProgrammingLanguage>(a =>
             {
-                a.ToTable("ProgrammingLanguage").HasKey(k => k.Id);
+                a.ToTable("ProgrammingLanguages").HasKey(k => k.Id);
                 a.Property(p => p.Id).HasColumnName("Id");
                 a.Property(p => p.Name).HasColumnName("Name");
                 a.Property(p => p.IsActive).HasColumnName("IsActive");
             });
 
+            modelBuilder.Entity<Technology>(a =>
+            {
+                a.ToTable("Technologies").HasKey(k => k.Id);
+                a.Property(p => p.Id).HasColumnName("Id");
+                a.Property(p => p.Name).HasColumnName("Name");
+                a.HasOne(p => p.ProgrammingLanguage);
+            });
+
+            modelBuilder.Entity<GithubSocial>(a =>
+            {
+                a.ToTable("GithubSocials").HasKey(k => k.Id);
+                a.Property(p => p.Id).HasColumnName("Id");
+                a.Property(p => p.GithubUrl).HasColumnName("GithubUrl");
+                a.Property(p => p.UserId).HasColumnName("UserId");
+                a.HasOne(p => p.User);
+            });
 
 
             ProgrammingLanguage[] brandEntitySeeds = { new(1, "C#",true), new(2, "Java", true) };
+            Technology[] technologyEntitySeeds = { new(1, "WPF", 1,true), new(2, "ASP.NET",2, true) };
             modelBuilder.Entity<ProgrammingLanguage>().HasData(brandEntitySeeds);
+            modelBuilder.Entity<Technology>().HasData(technologyEntitySeeds);
 
 
         }

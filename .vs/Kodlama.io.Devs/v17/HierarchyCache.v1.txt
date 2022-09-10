@@ -1,0 +1,547 @@
+﻿++Solution 'Kodlama.io.Devs' ‎(10 of 9 projects)
+i:{00000000-0000-0000-0000-000000000000}:Kodlama.io.Devs.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Kodlama.io.Devs
+i:{0c479dfe-3894-45c4-869b-5f944a6c655d}:Kodlama.io.Devs
+++Persistance
+i:{1f7b0f9e-01f0-435a-aaae-8f6f14f3f0ef}:Persistance
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\persistance.csproj
+++Dependencies
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:>1728
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1270
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:>937
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:>935
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>939
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>938
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:>932
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:>934
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>936
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>933
+++Contexts
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\contexts\
+++BaseDbContext.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\contexts\basedbcontext.cs
+++Migrations
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\migrations\
+++Repositories
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\repositories\
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\services\repositories\
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\
+++PersistenceServiceRegistration.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\persistenceserviceregistration.cs
+++Analyzers
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:analyzers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:analyzers
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:analyzers
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:analyzers
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:analyzers
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:analyzers
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:analyzers
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:analyzers
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:analyzers
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:analyzers
+++Frameworks
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:frameworks
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:frameworks
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:frameworks
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:frameworks
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:frameworks
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:frameworks
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:frameworks
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:frameworks
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:frameworks
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:frameworks
+++Packages
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:packages
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:packages
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:packages
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:packages
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:packages
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:packages
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:packages
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:packages
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:packages
+++Projects
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:projects
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:projects
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:projects
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:projects
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:projects
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:projects
+++ProgrammingLanguageRepository.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\repositories\programminglanguagerepository.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.8\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\microsoft.netcore.app
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\microsoft.netcore.app
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\microsoft.netcore.app
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\domain\microsoft.netcore.app
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\microsoft.netcore.app
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\microsoft.netcore.app
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\microsoft.netcore.app
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\microsoft.netcore.app
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\microsoft.netcore.app
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.8)
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:>1738
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1341
+++Application
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\bin\debug\net6.0\application.dll
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\application.csproj
+i:{1f7b0f9e-01f0-435a-aaae-8f6f14f3f0ef}:Application
+++Domain
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\domain\bin\debug\net6.0\domain.dll
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\domain\bin\debug\net6.0\domain.dll
+i:{1f7b0f9e-01f0-435a-aaae-8f6f14f3f0ef}:Domain
+++WebAPI
+i:{1f7b0f9e-01f0-435a-aaae-8f6f14f3f0ef}:WebAPI
+++Connected Services 
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1271
+++Properties
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\properties\
+++launchSettings.json
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\properties\launchsettings.json
+++Controllers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\controllers\
+++BaseController.cs
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\controllers\basecontroller.cs
+++ProgrammingLanguageController.cs
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\controllers\programminglanguagecontroller.cs
+++appsettings.Development.json
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\appsettings.development.json
+++appsettings.json
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\appsettings.json
+++Program.cs
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\program.cs
+++No service dependencies discovered
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1272
+++Microsoft.AspNetCore.Analyzers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\webapi\microsoft.aspnetcore.app
+++MediatR (10.0.1)
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>1004
+++Microsoft.EntityFrameworkCore.Tools (6.0.8)
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1344
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>1343
+++Swashbuckle.AspNetCore (6.4.0)
+i:{bd2a772b-9bfd-47d2-b9b7-d06ef266f2f7}:>2314
+++Features
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\
+++Language
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\
+++Commands
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\
+++CreateProgrammingLanguage
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\createprogramminglanguage\
+++CreateProgrammingLanguageCommand.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\createprogramminglanguage\createprogramminglanguagecommand.cs
+++CreateProgrammingLanguageValidator.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\createprogramminglanguage\createprogramminglanguagevalidator.cs
+++DeleteProgrammingLanguage
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\deleteprogramminglanguage\
+++DeleteProgrammingLanguageCommand.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\deleteprogramminglanguage\deleteprogramminglanguagecommand.cs
+++DeleteProgrammingLanguageValidator.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\deleteprogramminglanguage\deleteprogramminglanguagevalidator.cs
+++UpdateProgrammingLanguage
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\updateprogramminglanguage\
+++UpdateProgrammingLanguageCommand.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\updateprogramminglanguage\updateprogramminglanguagecommand.cs
+++UpdateProgrammingLanguageValidator.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\commands\updateprogramminglanguage\updateprogramminglanguagevalidator.cs
+++Dtos
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\dtos\
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\dtos\
+++CreateProgrammingLanguageDto.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\dtos\createprogramminglanguagedto.cs
+++ProgrammingLanguageByIdDto.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\dtos\programminglanguagebyiddto.cs
+++ProgrammingLanguageListDto.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\dtos\programminglanguagelistdto.cs
+++Models
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\models\
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\
+++ProgrammingLanguageListModel.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\models\programminglanguagelistmodel.cs
+++Profiles
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\profiles\
+++MappingProfiles.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\profiles\mappingprofiles.cs
+++Queries
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\queries\
+++GetByIdProgrammingLanguage
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\queries\getbyidprogramminglanguage\
+++GetByIdProgrammingLanguageQuery.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\queries\getbyidprogramminglanguage\getbyidprogramminglanguagequery.cs
+++GetListProgrammingLanguage
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\queries\getlistprogramminglanguage\
+++GetListProgrammingLanguageQuery.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\queries\getlistprogramminglanguage\getlistprogramminglanguagequery.cs
+++Rules
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\rules\
+++ProgrammingLanguageBusinessRules.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\features\language\rules\programminglanguagebusinessrules.cs
+++Services
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\services\
+++IProgrammingLanguageRepository.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\services\repositories\iprogramminglanguagerepository.cs
+++ApplicationServiceRegistration.cs
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\application\applicationserviceregistration.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:>999
+++FluentValidation.DependencyInjectionExtensions (11.2.1)
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:>995
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:>1003
+++Core.Application
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\bin\debug\net6.0\core.application.dll
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.Application
+++Core.CrossCuttingConcerns
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\bin\debug\net6.0\core.crosscuttingconcerns.dll
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\bin\debug\net6.0\core.crosscuttingconcerns.dll
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.CrossCuttingConcerns
+++Core.Persistence
+i:{726ffd6f-f12c-45c3-ab5d-0f6a65e59291}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\bin\debug\net6.0\core.persistence.dll
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\bin\debug\net6.0\core.persistence.dll
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.Persistence
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\bin\debug\net6.0\core.persistence.dll
+++Entities
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\domain\entities\
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\
+++ProgrammingLanguage.cs
+i:{ce7d880e-2450-4775-9f47-859ade54e06f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\domain\entities\programminglanguage.cs
+++corePackages
+i:{0c479dfe-3894-45c4-869b-5f944a6c655d}:corePackages
+++Pipelines
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\
+++Requests
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\requests\
+++Authorization
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\authorization\
+++Caching
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\
+++Logging
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\logging\
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\
+++Validation
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\validation\
+++PageRequest.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\requests\pagerequest.cs
+++FluentValidation (10.3.6)
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>1014
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>1041
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>1002
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>1015
+++Microsoft.Extensions.Caching.Abstractions (6.0.0)
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:>998
+++Core.Security
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\bin\debug\net6.0\core.security.dll
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.Security
+++AuthorizationBehavior.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\authorization\authorizationbehavior.cs
+++ISecuredRequest.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\authorization\isecuredrequest.cs
+++CacheRemovingBehavior.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\cacheremovingbehavior.cs
+++CacheSettings.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\cachesettings.cs
+++CachingBehavior.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\cachingbehavior.cs
+++ICachableRequest.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\icachablerequest.cs
+++ICacheRemoverRequest.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\caching\icacheremoverrequest.cs
+++ILoggableRequest.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\logging\iloggablerequest.cs
+++LoggingBehavior.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\logging\loggingbehavior.cs
+++RequestValidationBehavior.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\validation\requestvalidationbehavior.cs
+++ValidationTool.cs
+i:{94e2395e-c9d8-44b0-b5d5-b23183ceb950}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.application\pipelines\validation\validationtool.cs
+++Core.ElasticSearch
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.ElasticSearch
+++ElasticSearchManager.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\elasticsearchmanager.cs
+++IElasticSearch.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\ielasticsearch.cs
+++ElasticSearchConfig.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchconfig.cs
+++ElasticSearchGetModel.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchgetmodel.cs
+++ElasticSearchInsertManyModel.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchinsertmanymodel.cs
+++ElasticSearchInsertUpdateModel.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchinsertupdatemodel.cs
+++ElasticSearchModel.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchmodel.cs
+++ElasticSearchResult.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\elasticsearchresult.cs
+++IElasticSearchResult.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\ielasticsearchresult.cs
+++IndexModel.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\indexmodel.cs
+++SearchByFieldParameters.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\searchbyfieldparameters.cs
+++SearchByQueryParameters.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\searchbyqueryparameters.cs
+++SearchParameters.cs
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.elasticsearch\models\searchparameters.cs
+++Elasticsearch.Net (7.17.0)
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>996
+++Microsoft.Extensions.Configuration.Abstractions (6.0.0)
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>1001
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:>987
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>1027
+++Microsoft.Extensions.Configuration.Binder (6.0.0)
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>1005
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:>988
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>1029
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>1040
+++NEST (7.17.0)
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>1007
+++NEST.JsonNetSerializer (7.17.0)
+i:{66a0b8c9-ae22-47c4-916a-92edcc0f202b}:>1006
+++Core.Mailing
+i:{c2fbfbe6-7c61-43e9-89ef-bb256de80d7f}:Core.Mailing
+++MailKitImplementations
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\mailkitimplementations\
+++IMailService.cs
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\imailservice.cs
+++Mail.cs
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\mail.cs
+++MailSettings.cs
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\mailsettings.cs
+++MailKitMailService.cs
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.mailing\mailkitimplementations\mailkitmailservice.cs
+++MailKit (3.1.1)
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:>990
+++MimeKit (3.1.1)
+i:{ee526662-ff97-4b34-b94c-0b3d791516a2}:>989
+++Dynamic
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\dynamic\
+++Paging
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\paging\
+++Dynamic.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\dynamic\dynamic.cs
+++Filter.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\dynamic\filter.cs
+++IQueryableDynamicFilterExtensions.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\dynamic\iqueryabledynamicfilterextensions.cs
+++Sort.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\dynamic\sort.cs
+++BasePageableModel.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\paging\basepageablemodel.cs
+++IPaginate.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\paging\ipaginate.cs
+++IQueryablePaginateExtensions.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\paging\iqueryablepaginateextensions.cs
+++Paginate.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\paging\paginate.cs
+++EfRepositoryBase.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\efrepositorybase.cs
+++Entity.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\entity.cs
+++IAsyncRepository.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\iasyncrepository.cs
+++IQuery.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\iquery.cs
+++IRepository.cs
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.persistence\repositories\irepository.cs
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:>997
+++System.Linq.Dynamic.Core (1.2.17)
+i:{4944696f-91ef-4cfb-86f0-ca704fae3b04}:>1000
+++EmailAuthenticator
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\emailauthenticator\
+++Encryption
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\encryption\
+++Enums
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\enums\
+++Extensions
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\extensions\
+++Hashing
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\hashing\
+++JWT
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\jwt\
+++OtpAuthenticator
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\otpauthenticator\
+++SecurityServiceRegistration.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\securityserviceregistration.cs
+++UserForLoginDto.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\dtos\userforlogindto.cs
+++UserForRegisterDto.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\dtos\userforregisterdto.cs
+++EmailAuthenticatorHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\emailauthenticator\emailauthenticatorhelper.cs
+++IEmailAuthenticatorHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\emailauthenticator\iemailauthenticatorhelper.cs
+++SecurityKeyHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\encryption\securitykeyhelper.cs
+++SigningCredentialsHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\encryption\signingcredentialshelper.cs
+++EmailAuthenticator.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\emailauthenticator.cs
+++OperationClaim.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\operationclaim.cs
+++OtpAuthenticator.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\otpauthenticator.cs
+++RefreshToken.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\refreshtoken.cs
+++User.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\user.cs
+++UserOperationClaim.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\entities\useroperationclaim.cs
+++AuthenticatorType.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\enums\authenticatortype.cs
+++ClaimExtensions.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\extensions\claimextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\extensions\claimsprincipalextensions.cs
+++HashingHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\hashing\hashinghelper.cs
+++AccessToken.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\jwt\accesstoken.cs
+++ITokenHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\jwt\itokenhelper.cs
+++JwtHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\jwt\jwthelper.cs
+++TokenOptions.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\jwt\tokenoptions.cs
+++OtpNet
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\otpauthenticator\otpnet\
+++IOtpAuthenticatorHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\otpauthenticator\iotpauthenticatorhelper.cs
+++Microsoft.IdentityModel.Tokens (6.15.1)
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>1031
+++Otp.NET (1.2.2)
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>1030
+++System.IdentityModel.Tokens.Jwt (6.8.0)
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:>1028
+++OtpNetOtpAuthenticatorHelper.cs
+i:{86b1b895-5409-4f67-8adc-905656aaeb4f}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.security\otpauthenticator\otpnet\otpnetotpauthenticatorhelper.cs
+++Exceptions
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\
+++AuthorizationException.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\authorizationexception.cs
+++AuthorizationProblemDetails.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\authorizationproblemdetails.cs
+++BusinessException.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\businessexception.cs
+++BusinessProblemDetails.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\businessproblemdetails.cs
+++ExceptionMiddleware.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\exceptionmiddleware.cs
+++ExceptionMiddlewareExtensions.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\exceptionmiddlewareextensions.cs
+++ValidationProblemDetails.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\exceptions\validationproblemdetails.cs
+++Serilog
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\
+++LogDetail.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\logdetail.cs
+++LogDetailWithException.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\logdetailwithexception.cs
+++LogParameter.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\logparameter.cs
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>1043
+++Serilog (2.10.0)
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>1044
+++Serilog.Sinks.File (5.0.0)
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:>1042
+++ConfigurationModels
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\configurationmodels\
+++Logger
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\logger\
+++Messages
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\messages\
+++LoggerServiceBase.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\loggerservicebase.cs
+++FileLogConfiguration.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\configurationmodels\filelogconfiguration.cs
+++FileLogger.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\logger\filelogger.cs
+++SerilogMessages.cs
+i:{a72dc7fd-4e42-4d84-941e-d555701de14e}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\corepackages\core.crosscuttingconcers\logging\serilog\messages\serilogmessages.cs
+++Microsoft.EntityFrameworkCore.Design (6.0.8)
+++20220904172733_init.cs
+++20220904172733_init.Designer.cs
+++BaseDbContextModelSnapshot.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\migrations\basedbcontextmodelsnapshot.cs
+++20220904173613_init.cs
+++20220904173613_init.Designer.cs
+++20220904173852_init.cs
+++20220904173852_init.Designer.cs
+++Swashbuckle.AspNetCore (6.2.3)
+++20220904174042_init.cs
+++20220904174042_init.Designer.cs
+++20220904175231_init.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\migrations\20220904175231_init.cs
+++20220904175231_init.Designer.cs
+i:{c68b6e45-7e48-4338-ad5b-961c19c733aa}:c:\users\utku\desktop\project\arch\solution2\kodlama.io.devs\src\kodlama.io.devs\persistance\migrations\20220904175231_init.designer.cs

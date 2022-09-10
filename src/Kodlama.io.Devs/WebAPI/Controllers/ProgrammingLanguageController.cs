@@ -1,10 +1,10 @@
-﻿using Application.Features.Language.Commands.CreateProgrammingLanguage;
-using Application.Features.Language.Commands.DeleteProgrammingLanguage;
-using Application.Features.Language.Commands.UpdateProgrammingLanguage;
-using Application.Features.Language.Dtos;
-using Application.Features.Language.Models;
-using Application.Features.Language.Queries.GetByIdProgrammingLanguage;
-using Application.Features.Language.Queries.GetListProgrammingLanguage;
+﻿using Application.Features.Languages.Commands.CreateProgrammingLanguage;
+using Application.Features.Languages.Commands.DeleteProgrammingLanguage;
+using Application.Features.Languages.Commands.UpdateProgrammingLanguage;
+using Application.Features.Languages.Dtos;
+using Application.Features.Languages.Models;
+using Application.Features.Languages.Queries.GetByIdProgrammingLanguage;
+using Application.Features.Languages.Queries.GetListProgrammingLanguage;
 using Core.Application.Requests;
 using Microsoft.AspNetCore.Mvc;
 
@@ -15,17 +15,17 @@ namespace WebAPI.Controllers
     public class ProgrammingLanguageController : BaseController
     {
         [HttpPost]
-        public async Task<IActionResult> Add([FromBody] CreateProgrammingLanguageCommand createSomeFeatureEntityCommand)
+        public async Task<IActionResult> Add([FromBody] CreateProgrammingLanguageCommand createProgrammingLanguageCommand)
         {
-            CreateProgrammingLanguageDto result = await Mediator.Send(createSomeFeatureEntityCommand);
-            return Created("", result);
+            var result = await Mediator.Send(createProgrammingLanguageCommand);
+            return Ok( result);
         }
 
         [HttpPut]
-        public async Task<IActionResult> Update([FromBody] UpdateProgrammingLanguageCommand updateSomeFeatureEntityCommand)
+        public async Task<IActionResult> Update([FromBody] UpdateProgrammingLanguageCommand updateProgrammingLanguageCommand)
         {
-            CreateProgrammingLanguageDto result = await Mediator.Send(updateSomeFeatureEntityCommand);
-            return Created("", result);
+            var result = await Mediator.Send(updateProgrammingLanguageCommand);
+            return Ok( result);
         }
 
         [HttpDelete("{Id}")]

@@ -1,5 +1,9 @@
-﻿using Application.Features.Language.Rules;
+﻿using Application.Features.GithubProfiles.Rules;
+using Application.Features.Languages.Rules;
+using Application.Features.Technologies.Rules;
+using Application.Features.Users.Rules;
 using Core.Application.Pipelines.Validation;
+using Core.Security.JWT;
 using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,6 +25,9 @@ namespace Application
             services.AddMediatR(Assembly.GetExecutingAssembly());
 
             services.AddScoped<ProgrammingLanguageBusinessRules>();
+            services.AddScoped<TechnologyBusinessRules>();
+            services.AddScoped<UserBusinessRules>();
+            services.AddScoped<GithubSocialBusinessRules>();
 
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
             //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(AuthorizationBehavior<,>));
