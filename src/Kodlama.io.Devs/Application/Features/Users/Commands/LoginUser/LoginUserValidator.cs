@@ -12,8 +12,8 @@ namespace Application.Features.Users.Commands.LoginUser
 
         public LoginUserValidator()
         {
-            RuleFor(c => c.Email).EmailAddress();
-            RuleFor(c => c.Password).NotEmpty();
+            RuleFor(c => c.UserForLoginDto.Email).EmailAddress();
+            RuleFor(c => c.UserForLoginDto.Password).NotEmpty();
         }
     }
 }

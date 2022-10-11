@@ -25,7 +25,7 @@ namespace Application.Features.Users.Rules
             if (result.Items.Any()) throw new BusinessException("Mail is exist");
         }
 
-        public async Task UserShouldExistWhenRequested(User user)
+        public void UserShouldExistWhenRequested(User? user)
         {
             if (user == null) throw new BusinessException("Requested User does not exist");
         }
@@ -49,6 +49,12 @@ namespace Application.Features.Users.Rules
         {
             var user = await _userRepository.GetAsync(a => a.Id == userId);
             if (user == null) throw new BusinessException("User is not exist");
+        }
+        public async Task<User?> GetUser(int userId)
+        {
+            var user = await _userRepository.GetAsync(a => a.Id == userId);
+            if (user == null) throw new BusinessException("User is not exist");
+            return user;
         }
     }
 }

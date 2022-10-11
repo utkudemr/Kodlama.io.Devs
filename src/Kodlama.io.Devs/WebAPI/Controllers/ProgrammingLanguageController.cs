@@ -6,6 +6,7 @@ using Application.Features.Languages.Models;
 using Application.Features.Languages.Queries.GetByIdProgrammingLanguage;
 using Application.Features.Languages.Queries.GetListProgrammingLanguage;
 using Core.Application.Requests;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
@@ -36,6 +37,7 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetList([FromQuery] PageRequest pageRequest)
         {
             GetListProgrammingLanguageQuery getListBrandQuery = new() { PageRequest = pageRequest };

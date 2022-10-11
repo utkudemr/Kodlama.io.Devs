@@ -16,6 +16,8 @@ using Application.Features.Users.Commands.LoginUser;
 using Application.Features.Users.Commands.RegisterUser;
 using Application.Features.Users.Dtos;
 using Core.Application.Requests;
+using Core.Security.Dtos;
+using Core.Security.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
@@ -26,18 +28,32 @@ namespace WebAPI.Controllers
     {
         [HttpPost]
         [Route("Login")]
-        public async Task<IActionResult> Login([FromBody] LoginUserCommand loginUserCommand)
+        public async Task<IActionResult> Login([FromBody] UserForLoginDto userForLoginDto)
         {
-            LoginUserDto result = await Mediator.Send(loginUserCommand);
-            return Ok(result);
+            LoginUserCommand loginUserCommand=new LoginUserCommand() { UserForLoginDto= userForLoginDto,IpAddress = GetIpAddress()};
+            var result = await Mediator.Send(loginUserCommand);
+            SetRefreshTokenToCookie(result.RefreshToken);
+            return Created("", result.AccessToken);
         }
 
         [HttpPost]
         [Route("Register")]
-        public async Task<IActionResult> Register([FromBody] RegisterUserCommand registerUserCommand)
+        public async Task<IActionResult> Register([FromBody] UserForRegisterDto userForRegisterDto)
         {
+            RegisterUserCommand registerUserCommand = new() { IpAddress = GetIpAddress() , UserForRegisterDto = userForRegisterDto };
             RegisterUserDto result = await Mediator.Send(registerUserCommand);
+            SetRefreshTokenToCookie(result.RefreshToken);
             return Ok( result);
+        }
+
+        private void SetRefreshTokenToCookie(RefreshToken refreshToken)
+        {
+            CookieOptions cookieOptions = new()
+            {
+                HttpOnly = true,
+                Expires = DateTime.Now.AddDays(7)
+            };
+            Response.Cookies.Append("refreshToken", refreshToken.Token, cookieOptions);
         }
     }
 }

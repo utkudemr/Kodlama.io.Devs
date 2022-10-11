@@ -86,3 +86,7 @@ C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\bin\Debug\net6.0\libman.json
+C:\Users\Utku\Desktop\project\arch\solution2\Kodlama.io.Devs\src\Kodlama.io.Devs\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
